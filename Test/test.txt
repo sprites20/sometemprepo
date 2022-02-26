@@ -1,0 +1,8 @@
+        KEYWORD,write
+         LPAREN,(
+        STR_LIT,"Hello"
+           PLUS,+
+        STR_LIT," World!"
+         RPAREN,)
+      SEMICOLON,;
+       TYPE_EOF,End of file

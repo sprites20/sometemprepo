@@ -1,0 +1,15 @@
+#this is a comment#
+
+inta = 2
+intb = 3
+
+write("a, hello");
+
+intX = read("Input a number: ");
+whenever (intX <= 99)
+	whenever (intX < 99)
+		write("The number is less than 99.");
+	otherwise
+		write("The number is equal to 99.");
+otherwise
+	write("The number is not less than and equal to 99.");
